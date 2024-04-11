@@ -1,3 +1,7 @@
+This is the result of a short coding dojo (< 1h00) made during SoCraTes Rennes 2024,
+with Seow Chin, Abbas, Thomas and Alex.
+With a little more time we certainly could have improved more the code readability.
+
 # Gilded Rose starting position in Python
 
 ## Run the unit tests from the Command-Line
